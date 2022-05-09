@@ -6,7 +6,7 @@ Final project for ZTM course
 3. Run `npm start`
 4. Enter the details for your own databse in `server.js`
 
-** Make sure you use postgreSQL instead of mySQL for this code base.
+** Make sure you use postgreSQL instead of mySQL for this codee base.
 
 # Face-Detection-App-Api
 # Face-Detection-App-Api
